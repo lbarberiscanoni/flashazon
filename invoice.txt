@@ -1,0 +1,209 @@
+Page 1 of 1
+Display name:
+Legal name:
+
+Keezio
+Keezio Group LLC
+
+Questions? Get Help Online
+All amounts in USD, unless specified
+
+Account activity from Jun 1, 2016 through Jun 30, 2016
+Summaries
+
+Can include Amazon Marketplace, Fulfillment by Amazon (FBA), and Amazon Webstore transactions
+Totals
+
+Income
+
+Net sales, credits, and refunds
+
+Expenses
+
+Net fees, including Amazon service fees, selling fees, FBA fees, shipping, and taxes
+
+31,415.56
+
+Sales Tax
+
+Net taxes collected on product sales and services
+
+Transfers
+
+Net deposits and withdrawals
+
+1,211.57
+-6,149.51
+
+31,415.56
+
+Income
+Debits
+Product sales (non-FBA)
+0
+
+FBA product sales
+-2,266.11
+
+FBA inventory credit
+Shipping credits
+-40.20
+
+Gift wrap credit refunds
+
+0
+
+Promotional rebates
+Promotional rebate refunds
+
+0
+
+Selling fee refunds
+
+340.05
+-8,540.50
+
+FBA transaction fee refunds
+
+29.95
+
+Other transaction fees
+
+-37.74
+0
+
+FBA inventory and inbound services fees
+
+-1,322.11
+
+Shipping label purchases
+
+-359.71
+10.25
+
+0
+
+Shipping label refunds
+
+0
+
+Carrier shipping label adjustments
+
+0
+
+A-to-z Guarantee claims
+
+0
+
+Service fees
+
+-39.99
+
+Chargebacks
+
+0
+
+Refund administration fees
+
+-68.01
+
+Adjustments
+subtotals
+
+-2,666.02
+
+34,081.58
+
+0
+
+Cost of Advertising
+
+-776.05
+
+Refund for Advertiser
+
+-6,149.51
+
+Transfers
+Debits
+Transfers to bank account
+
+0
+subtotals
+
+-15,726.60
+
+-6,149.51
+
+Sales Tax
+0
+
+Charges to credit card
+
+0
+
+1,211.57
+Debits
+
+Sales, shipping, and gift wrap tax collected
+-90.96
+
+0
+subtotals
+
+Information in this statement does not constitute accounting, tax, legal, or other professional advice.
+
+Credits
+1,302.53
+
+Sales tax refunds
+-6,149.51
+
+370.00
+
+Credits
+
+Failed transfers to bank account
+
+subtotals
+
+Credits
+
+-4,942.20
+
+Other transaction fee refunds
+0
+
+Gift wrap credits
+
+Seller fulfilled selling fees
+
+FBA transaction fees
+0
+1,025.03
+
+Shipping credit refunds
+
+Debits
+
+FBA selling fees
+33,046.30
+
+FBA product sale refunds
+
+-15,356.60
+
+Expenses
+
+Credits
+0
+
+Product sale refunds (non-FBA)
+
+-15,356.60
+
+-90.96
+
+1,302.53
+
+
